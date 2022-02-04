@@ -4,12 +4,19 @@
 
 A software process model is an abstraction of the software development processModels, by their nature, are a simplification. The models specify the stages and order of a process. 
 A model will define the following:
+
 The tasks to be performed
+
 The input and output of each task
+
 The pre and post conditions for each task
+
 The flow and sequence of each task
-SDLC MODELS
-Waterfall SDLC Model
+
+**SDLC MODELS**
+
+**Waterfall  Model**
+
 The waterfall model is a sequential approach, where each fundamental activity of a process is represented as a separate phase, arranged in linear order. In the waterfall model, you must plan and schedule all of the activities before starting working on them (plan-driven process).
 Plan driven process is a process where activities are planned first, and the progress is measured against the plan.
 In principle, the result of each phase is one or more documents that should be approved and the next phase shouldn’t be started until the previous phase has completely been finished.
@@ -20,19 +27,29 @@ In principle, the result of each phase is one or more documents that should be a
 **ADVANTAGES**
 
 Simple to use and understand
+
 Management simplicity thanks to its rigidity: every phase has a defined result and process review
+
 Development stages go one by one
+
 Perfect for the small or mid-sized projects where requirements are clear and not equivocal
+
 Easy to determine the key points in the development cycle
 
 **DISADVANTAGES**
 
 The software is ready only after the last stage is over
+
 Only best for circumstances when requirements are well understood and unlikely to change radically during development as this model has a relatively rigid structure which makes it relatively hard to accommodate change when the process is underway.
+
 High risks and uncertainty
+
 Not the best choice for complex and object-oriented projects
+
 Inappropriate for the long-term projects
+
 The progress of the stage is hard to measure while it is still in the development
+
 Integration is done at the very end, which does not give the option of identifying the problem in advance
 
 **Prototyping**
@@ -48,9 +65,13 @@ While some prototypes are developed with the expectation that they will be disca
 **Advantages**
 
 This model is flexible in design.
+
 It is easy to detect errors.
+
 We can find missing functionality easily.
-There is scope of refinement, it means new requirements can be easily accommodated.\
+
+There is scope of refinement, it means new requirements can be easily accommodated.
+
 It can be reused by the developer for more complicated projects in the future.
 
 
@@ -58,8 +79,11 @@ It can be reused by the developer for more complicated projects in the future.
 **DISADVANTAGES**
 
 This model is costly.
+
 It has poor documentation because of continuously changing customer requirements.
+
 There may be too much variation in requirements.
+
 Customers sometimes demand the actual product to be delivered soon after seeing an early prototype.
  
 There may be sub-optimal solutions because of developers in a hurry to build prototypes.
@@ -88,13 +112,18 @@ Each loop (from review till service — see figure below) in the spiral represen
 
 **ADVANTAGES**
 Lifecycle is divided into small parts, and if the risk concentration is higher, the phase can be finished earlier to address the treats
+
 The development process is precisely documented yet scalable to the changes
+
 The scalability allows to make changes and add new functionality even at the relatively late stages
 
 **DISADVANTAGES**
 Can be quite expensive
+
 The risk control demands involvement of the highly-skilled professionals
+
 Can be ineffective for the small projects
+
 Big number of the intermediate stages requires excessive documentation
 
 
@@ -124,18 +153,29 @@ Transition: We deliver the system into the production operating environment.
 **Advantages**
  
 Some working functionality can be developed and early in the software development life cycle (SDLC).
+
 It is easily adaptable to the ever changing needs of the project as well as the client.
+
 It is best suited for agile organisations.
+
 It is more cost effective to change the scope or requirements in Iterative model.
+
 Parallel development can be planned.
+
 
 **Disadvantages**
 More resources may be required.
+
 Although cost of change is lesser, but it is not very suitable for changing requirements.
+
 More management attention is required.
+
 It is not suitable for smaller projects.
+
 Highly skilled resources are required for skill analysis.
+
 Project progress is highly dependent upon the risk analysis phase.
+
 Defining increments may require definition of the complete system.
  
  
@@ -150,16 +190,26 @@ There are a number of different agile methods available such as: Scrum, Crystal,
  **Advantages**
  
 In Agile methodology the delivery of software is unremitting.
+
 The customers are satisfied because after every Sprint working feature of the software is delivered to them.
+
 Customers can have a look of the working feature which fulfilled their expectations.
+
 If the customers has any feedback or any change in the feature then it can be accommodated in the current release of the product.
+
 In Agile methodology the daily interactions are required between the business people and the developers.
+
 In this methodology attention is paid to the good design of the product.
+
 **Disadvantages** 
 In Agile methodology the documentation is less.
+
 Sometimes in Agile methodology the requirement is not very clear hence it’s difficult to predict the expected result.
+
 In few of the projects at the starting of the software development life cycle it’s difficult to estimate the actual effort required.
+
 Because of the ever-evolving features, there is always a risk of the ever-lasting project.
+
 For complex projects, the resource requirement and effort are difficult to estimate.
  
  
