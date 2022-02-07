@@ -212,7 +212,14 @@ Because of the ever-evolving features, there is always a risk of the ever-lastin
 
 For complex projects, the resource requirement and effort are difficult to estimate.
  
- 
+
+ **History of Software Construction**
+
+Software construction is a software engineering discipline. It is the detailed creation of working meaningful software through a combination of coding, verification, unit testing, integration testing, and debugging. It is linked to all the other software engineering disciplines, most strongly to software design and software testing.
+
+The term software engineering was suggested at conferences organized by NATO in 1968 and 1969 to discuss the 'software crisis'. The software crisis was the name given to the difficulties encountered in developing large, complex systems in the 1960s. It was proposed that the adoption of an engineering approach to software development would reduce the costs of software development and lead to more reliable software. A search for solutions began. It concentrated on better methodologies and tools. The most prominent were programming languages reflecting the procedural, modular, and then object-oriented styles. Software engineering is intimately tied to their emergence and improvement. Also of significance were efforts of systematizing, even automating program documentation and testing. Ultimately, analytic verification and correctness proofs were supposed to replace testing.
+
+
  
 
 
