@@ -1,0 +1,46 @@
+﻿A WEB BASED CROWDFUNDING PLATTFORM
+RESEARCH PROPOSAL.
+
+
+BY
+
+
+MASOZERA VICTOR
+S19B23/219
+A85040
+
+
+Email Addresses: masozeravictor@gmail.com
+Phone Number: +256 779456567
+
+
+Requirements Specification
+
+
+Requirements refer to services the software should provide and the constraints the software should follow.
+
+
+They are categorized as functional and non-functional.
+The functional requirements are the requirements which specify functionality and the aspects of the system in regards to input and output.
+
+
+The functional requirements for the Crowdfunding plattform is given below;
+
+
+Admin should be able to login
+Admin should be able to view users
+Admin should be able to view all data
+Admin should be able to add users, delete users and update user information
+User should be able to register
+User should be able to use registration details to log into the system
+User should be able to choose charities and causes to donate to
+User should be able to to pay with debit or credit card 
+User should be able to browse through causes and charities
+
+
+However non-functional requirements are the requirements that define system attributes. Yhey include the following:
+
+
+Performance requirements. The system should be able to support multiple system users currently without logging.
+Logical database requirements. The system and its information will be stored in the database.
+Design constraints. The user interface of the system due to the fact that it is web based will be designed using HTML,CSS,Ajax and javascript. System administrators should have documentation of how the system will work in order to workout solutions to problems should any arise before further intervention.
